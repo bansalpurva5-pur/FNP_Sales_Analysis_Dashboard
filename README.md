@@ -115,3 +115,16 @@ Successfully transformed **1,000 raw sales transactions into an interactive busi
 This project demonstrates my ability to move from:
 
 **Raw Data → Data Analysis → Visualization → Business Insights → Data-Driven Decisions**
+##  Dashboard Preview
+
+### Interactive Sales Analysis Dashboard
+
+![FNP Sales Analysis Dashboard](FNP_Dashboard.png)
+
+###  Supporting Analysis
+
+![FNP Pivot Analysis](FNP_Pivot_Analysis.png)
+
+###  Raw Data
+
+![FNP Raw Data](FNP_Raw_Data.png)
